@@ -21,6 +21,10 @@ NandiCloud is full of innovative features. Here is a list of the most important 
  mvn clean package
  ```
  
+ ## Helping
+ This project isn't complete and completly bug free.
+ Help this project by fixing one of my many Errors or adding new features.
+ 
  ## Inspierd
  Havily inspierd by [TimoCloud](https://github.com/TimoCloud/TimoCloud)
  
