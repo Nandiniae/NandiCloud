@@ -1,0 +1,6 @@
+name: NandiCloud
+main: de.nandi.nandicloud.bukkit.main.NandiCloudBukkit
+author: Nandi
+version: 1.0
+description: A Cloud by Nandi
+load: STARTUP

@@ -1,0 +1,5 @@
+name: NandiCloud
+main: de.nandi.nandicloud.bungee.main.NandiCloudBungee
+author: Nandi
+version: 1.0
+description: A Cloud by Nandi
