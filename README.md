@@ -2,7 +2,7 @@
 NandiCloud is a Minecraft server/proxy management system ("Cloud System"). It will care about keeping online enough servers of every kind.
 
 ## Features
-NandiCLoud is full of innovative features. Here is a list of the most important ones:
+NandiCloud is full of innovative features. Here is a list of the most important ones:
 
  - **Automatic and dynamic starting** of Minecraft servers and a BungeeCord proxy.
  - **Powerful API**, synchronized over your whole network in real-time.
