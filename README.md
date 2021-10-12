@@ -1,4 +1,4 @@
-# NandiCLoud
+# NandiCloud
 NandiCloud is a Minecraft server/proxy management system ("Cloud System"). It will care about keeping online enough servers of every kind.
 
 ## Features
