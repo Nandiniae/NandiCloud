@@ -6,7 +6,6 @@ NandiCloud is full of innovative features. Here is a list of the most important 
 
  - **Automatic and dynamic starting** of Minecraft servers and a BungeeCord proxy.
  - **Powerful API**, synchronized over your whole network in real-time.
- - **Multi-Proxy**: TimoCloud is standalone and does not only start Bukkit/Spigot servers for you, but also BungeeCord/Velocity proxies
  
  ## Download
  You can download the latest version [here](link)
