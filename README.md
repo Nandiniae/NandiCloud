@@ -1,4 +1,4 @@
-# NandiCloud
+# NandiCloud a clone of TimoCloud
 NandiCloud is a Minecraft server/proxy management system ("Cloud System"). It will care about keeping online enough servers of every kind.
 
 ## Features
@@ -16,13 +16,13 @@ NandiCloud is full of innovative features. Here is a list of the most important 
  ## Building from source
  ```
  git clone https://github.com/Nandinius/NandiCloud
- cd TimoCloud
+ cd NandiCloud
  mvn clean package
  ```
  
  ## Helping
- This project isn't complete and completly bug free.
- Help this project by fixing one of my many Errors or adding new features.
+ This project isn't complete and features a lot of bugs.
+ Help this project by fixing one of my many errors or adding new features.
  
  ## Inspierd
  Havily inspierd by [TimoCloud](https://github.com/TimoCloud/TimoCloud)
