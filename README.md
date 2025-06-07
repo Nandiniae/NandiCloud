@@ -11,11 +11,11 @@ NandiCloud is full of innovative features. Here is a list of the most important 
  You can download the latest version [here](link)
  
  ## Setup
- See the [Wiki](https://github.com/Nandinius/NandiCloud/wiki)
+ See the [Wiki](https://github.com/Nandiniae/NandiCloud/wiki)
 
  ## Building from source
  ```
- git clone https://github.com/Nandinius/NandiCloud
+ git clone https://github.com/Nandiniae/NandiCloud
  cd NandiCloud
  mvn clean package
  ```
